@@ -1,0 +1,6 @@
+export const authTypes = {
+    REGISTER: 'REGISTER',
+    REGISTER_SUCCESS: 'REGISTER_SUCCESS',
+    LOGIN: 'LOGIN',
+    LOGIN_SUCCESS: 'LOGIN_SUCCESS'
+}
